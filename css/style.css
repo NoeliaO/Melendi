@@ -1,2 +1,3 @@
 #m{color: dodgerblue;; text-align: center; border-style: ridge;}
-#img{border: 10px black; padding: 15px; border-image:stretch;}
+#img{ border-image-source: url(multimedia/images.jpg);
+    border-image-outset: 10px;}
